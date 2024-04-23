@@ -14,3 +14,5 @@ Network overview: IP addresses, connection status, and bandwidth usage.
 Intuitive interface: Easy-to-navigate design for seamless exploration.
 Real-time updates: Stay informed with the latest data on your PC's status.
 Empower yourself with knowledge about your PC and network infrastructure. Download [App Name] now and take control of your digital environment like never before!
+
+NOTE: THE APP IS NOT FULLY REALASED YET!
