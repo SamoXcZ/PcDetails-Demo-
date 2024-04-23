@@ -1,4 +1,4 @@
-##About
+# About
 
 
 Introducing PcDetails, your comprehensive Windows application built using Python that provides detailed insights into your PC's hardware and network configurations.
